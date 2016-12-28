@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"$productObj〔variable〕"
+			],
+			[
+				"elgi",
+				"$eligible_ids〔variable〕"
+			],
+			[
+				"eligi",
+				"eligiblity"
+			],
+			[
+				"fields",
+				"fields"
+			],
+			[
+				"respo",
+				"resp_obj"
+			],
+			[
+				"setPurc",
+				"setPurchaseOfferXmlParams"
+			],
+			[
+				"in",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 212.0,
+		"last_filter": "install p",
+		"selected_items":
+		[
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"colorSublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 478.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/johndivney/Sites/mvp_products/classes/ValidateAddress.php",
+		"/Users/johndivney/Sites/mvp_products/views/datamask/datamask.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/controller/eligibility.php",
+		"/Users/johndivney/Sites/mvp_products/classes/Eligibility.php",
+		"/Users/johndivney/Sites/mvp_products/classes/Model.php",
+		"/Users/johndivney/Sites/mvp_products/controller/apis/validateAddress.php",
+		"/Users/johndivney/Sites/mvp_products/classes/View.php",
+		"/Users/johndivney/Sites/mvp_products/controller/activate.php",
+		"/Users/johndivney/Sites/mvp_products/controller/confirm.php",
+		"/Users/johndivney/Sites/mvp_products/classes/PurchaseOfferResponse.php",
+		"/Users/johndivney/Sites/mvp_products/controller/model.php",
+		"/Users/johndivney/Sites/mvp_products/classes/ViewUser.php",
+		"/Users/johndivney/Sites/mvp_products/model/computerprotection-model.php",
+		"/Users/johndivney/Sites/mvp_products/model/datamask-model.php",
+		"/Users/johndivney/Sites/mvp_products/controller/cmi.php",
+		"/Users/johndivney/Sites/mvp/bootstrap/app.php",
+		"/Users/johndivney/Sites/mvp_products/controller/api.php",
+		"/Users/johndivney/Sites/mvp_products/controller/apis/verifyAddress.php",
+		"/Users/johndivney/Sites/mvp_products/classes/commonTraits/UtilsObi.php",
+		"/Users/johndivney/Sites/mvp_products/views/vip/confirm.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/controller/svu.php",
+		"/Users/johndivney/Sites/mvp_products/views/vip/vip.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/model/vip-model.php",
+		"/Users/johndivney/Sites/mvp_products/views/ad-free-aol-mail/confirm.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/views/ad-free-aol-mail/ad-free-aol-mail.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/views/lifelock/enroll.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/controller/enroll.php",
+		"/Users/johndivney/Sites/mvp_products/gulpfile.js",
+		"/Users/johndivney/Sites/mvp_products/controller/max-activations-redirect.php",
+		"/Users/johndivney/Sites/mvp_products/README",
+		"/Users/johndivney/Sites/mvp_products/views/lifelock/confirm.tpl.php",
+		"/Users/johndivney/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/johndivney/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+		"/Users/johndivney/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/johndivney/Sites/mvp_products/classes/commonTraits/Utils.php",
+		"/Users/johndivney/Downloads/file-DeviceAtlas (1).json",
+		"/Users/johndivney/Sites/mvp_products/lib/cmi_php_adapter/CMIWriteSVUHelper.php",
+		"/Users/johndivney/Sites/frontdoor-microsite/app/src/views/landing_pages/v_plans.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_GetTaxAreaIdResponse.php",
+		"/Users/johndivney/Sites/frontdoor-microsite/app/src/classes/PlansHelper.php",
+		"/Users/johndivney/Sites/frontdoor-microsite/app/src/handlers/PlansHandler.php",
+		"/Users/johndivney/Sites/frontdoor-microsite/app/src/classes/Page.php",
+		"/Users/johndivney/Sites/divbox-cms.aol.com/routes.yml",
+		"/Users/johndivney/Sites/divbox-cms.aol.com/vars.yml",
+		"/Users/johndivney/Downloads/file-DeviceAtlas.json",
+		"/Users/johndivney/Sites/cmi_php_adapter/CMICustomerProfileRequest.php",
+		"/Users/johndivney/Sites/mvp_products/classes/REE_AcctSummaryHelper.php",
+		"/Users/johndivney/Sites/mvp_products/lib/cmi_php_adapter/CMIUserProfileAPIHelper.php",
+		"/Users/johndivney/Sites/mvp_products/controller.php",
+		"/Users/johndivney/Sites/cmi_php_adapter/CMIGetAccessToken.php",
+		"/Users/johndivney/Sites/mvp_products/classes/User.php",
+		"/Users/johndivney/Sites/mvp_products/controller/init.php",
+		"/Users/johndivney/Sites/mvp_products/classes/Form.php",
+		"/Users/johndivney/Sites/mvp_products/mods/purchaseOfferMyRep.txt",
+		"/Users/johndivney/Sites/mvp_products/classes/PurchaseOfferDTO_datamask.php",
+		"/Users/johndivney/Sites/mvp_products/classes/PurchaseOfferDTO_myreputation.php",
+		"/Users/johndivney/Sites/mvp_products/classes/PurchaseOfferDTO.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferDTO_myreputation.php",
+		"/Users/johndivney/Sites/mvp_products/views/myreputation/enroll.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/views/aarp/enroll.tpl.php",
+		"/Users/johndivney/Sites/mvp_products/classes/PurchaseOfferHelper.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferFormData.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferDTO_aarp.php",
+		"/Users/johndivney/Sites/mvp_products/newpurchaseOffer.php",
+		"/Users/johndivney/Sites/mvp_products/classes/FormData.php",
+		"/Users/johndivney/Sites/mvp_products/classes/PurchaseOfferDTO_photobucket.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferHelper.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferDTO_datamask.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferDTO.php",
+		"/Users/johndivney/Sites/mvp_products/classes/OBI_PurchaseOfferResponse.php",
+		"/Users/johndivney/Sites/mvp_products/classes/SNS.php",
+		"/Users/johndivney/Sites/mvp_products/mods/purchaseOfferDatamaskDesktop.txt",
+		"/Users/johndivney/Sites/mvp_products/mods/purchaseOfferPWMobile.txt",
+		"/Users/johndivney/Sites/mvp_products/classes/HTTP_Request.php",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/johndivney/Library/Caches/Cleanup At Startup/Transmit/F5547F30-EE49-4E95-8EF2-56030C5F53E1/.htaccess-launch",
+		"/Users/johndivney/Documents/htmldocs/helpme.aol.com/aolhelpme/daol/help-me-optimize/index.php",
+		"/Users/johndivney/Library/Caches/Cleanup At Startup/Transmit/7F1B393D-DBDC-4CA8-8CD5-5D35FEC6001D/.htaccess",
+		"/Volumes/PaidServiceMarketing/DESIGN-TEAM/Fonts/ss-social/webfonts/ss-social.css",
+		"/Users/johndivney/Documents/htmldocs/helpme.aol.com/aolhelpme/index.php",
+		"/Users/johndivney/Documents/htmldocs/helpme.aol.com/aolhelpme/stylesheets/styles.css",
+		"/Users/johndivney/Desktop/T_AND_T_base.html",
+		"/Users/johndivney/Desktop/TT_30Day.html",
+		"/Users/johndivney/Desktop/mystuff_hero.html",
+		"/Users/johndivney/Desktop/TT_NFT.html",
+		"/Users/johndivney/Documents/htmldocs/helpme.aol.com/aolhelpme/index.html",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/mlp-blr/js/script.js",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/mlp-blr/css/style.css",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/mlp-blr/inc/mlp_model.php",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/mlp-blr/package/hero.php",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/mlp-blr/package/4-fun-a.php",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/mlp-blr/inc/mlp_helpers.php",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/ppc-landing/DVDMovieRentals/nav.php",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/ppc-landing/DVDMovieRentals/css/style.css",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/ppc-landing/DVDMovieRentals/index.php",
+		"/Users/johndivney/Documents/htmldocs/get.gathr.com/pages/ppc-landing/DVDMovieRentals/js/script.js",
+		"/Users/johndivney/Documents/htmldocs/discover.aol.com/daol/brand.html",
+		"/private/var/folders/n7/2r35rcxs2c70s453by07vc0c0000gp/T/33d0083a-2685-49e0-9837-e117d92757b3/get_gathr_com/pages/mlp-blr/package/4-fun-a.php",
+		"/Users/johndivney/Desktop/Gathr_BYOB-WAS-597.js",
+		"/Users/johndivney/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/settings.prod.php",
+		"/private/var/folders/n7/2r35rcxs2c70s453by07vc0c0000gp/T/33d0083a-2685-49e0-9837-e117d92757b3/helpme_aol_com/pages/index.php"
+	],
+	"find":
+	{
+		"height": 73.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"getBenefitType",
+			"setBenefitType",
+			"onepoint",
+			"valid_os",
+			".</",
+			"tabs",
+			"max",
+			"User",
+			"print_r",
+			"setRedirectUrl",
+			"REDIRECT_URL",
+			"environment",
+			"hex_result",
+			"serviceName",
+			"ncid",
+			"SOURCE",
+			"environment",
+			"drawer",
+			"button",
+			"checkoutURL",
+			"mainCTA",
+			">\n",
+			"about-videoThumbabout-videoThumbabout-videoThumbabout-videoThumb",
+			"about-videoThumb",
+			"container",
+			"video",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
