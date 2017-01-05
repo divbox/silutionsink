@@ -25,6 +25,13 @@ $container['config'] = function ($c) {
   return new Config(__DIR__ . '/../config');
 };
 
+// $container['logger'] = function($c) {
+//   $logger = new \Monolog\Logger('app_logger');
+//   $file_handler = new \Monolog\Handler\StreamHandler(__DIR__ . '/../logs/app.log');
+//   $logger->pushHandler($file_handler);
+//   return $logger;
+// };
+
 $container['view'] = function ($c) {
   $view = new \Slim\Views\Twig(__DIR__ . '/../resources/views', [
     'cache' => false,
